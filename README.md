@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashvin Manwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Learning Full Stack Web Developement</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashvin-Manwar](https://github.com/Ashvin-Manwar)
 
