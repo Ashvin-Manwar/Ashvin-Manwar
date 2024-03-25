@@ -32,8 +32,20 @@
   </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashvin-manwar&show_icons=true&locale=en" alt="ashvin-manwar" /></p>
+## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashvin-manwar&" alt="ashvin-manwar" /></p>
+<p align="center">
+<a href="https://github.com/ashvin-manwar">
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=ashvin-manwar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    alt="ashvin-manwar"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashvin-manwar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="ashvin-manwar"/>
+</a>
+</p>
 
+<p align="center">
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashvin-manwar&theme=dark&hide_border=false"/>
+</p>
+
+<br/>
+<hr/>
 
