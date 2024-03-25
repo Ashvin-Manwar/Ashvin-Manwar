@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ashvin Manwar</h1>
 <h3 align="center">Learning Full Stack Web Developement</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashvin-Manwar](https://github.com/Ashvin-Manwar)
+- <p>Dedicated Backend developer who is passionate about learning new things.
+A good leader and a good team player. Looking forward to developing products
+that help in making people’s lives better and becoming an integral part of an
+organization that helps me grow.</p>
 
-- 💬 Ask me about **Javascript/Node-js/NestJs**
+🌱 **About myself**<br>
 
-- 📫 How to reach me **manwar.ashvin@gmail.com**
+✔️ 🌱 I’m currently learning **MERN stack**
+
+✔️ 👨‍💻 All of my projects are available at [https://github.com/Ashvin-Manwar](https://github.com/Ashvin-Manwar)
+
+✔️ 💬 Ask me about **Javascript/Node-js/REST-Api/NestJs**
+
+✔️ 📫 How to reach me **manwar.ashvin@gmail.com**
+
+✔️ 📄 Know about my experiences [Profile](https://github.com/ashvin-manwar)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
